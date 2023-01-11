@@ -1,4 +1,3 @@
-![Working hard](animation.gif "I'm at work")
 ```yaml
 ---
 - name: Denis Klester
@@ -6,3 +5,4 @@
 - WM: i3
 ...
 ```
+![Working hard](animation.gif "I'm at work")
