@@ -1,4 +1,4 @@
-<p align="center"><img src="animation.gif" width="35%"></p>
+![Working hard](animation.gif "I'm at work")
 ```yaml
 ---
 - name: Denis Klester
